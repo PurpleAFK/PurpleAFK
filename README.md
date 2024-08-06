@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">./h1>
 
 ###
 
-<p align="left">My name is Purple and I'm always AFK 😴😴😴</p>
+<p align="left"😴</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Development<br>🎯 Goals: Making my dream game from scratch<br>🎲 Fun fact: I use arch btw</p>
+<p align="left">✨ Creating bugs since 2020</p>
 
 ###
 
