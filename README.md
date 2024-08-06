@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Development<br>🎯 Goals: Making my dream game from scratch<br>🎲 Fun fact: I use Neovim with lazy.nvim</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Development<br>🎯 Goals: Making my dream game from scratch<br>🎲 Fun fact: I use arch btw</p>
 
 ###
 
